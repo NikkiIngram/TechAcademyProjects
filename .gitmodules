@@ -1,3 +1,6 @@
 [submodule "NewLetterAppMvc"]
 	path = NewLetterAppMvc
 	url = https://github.com/NikkiIngram/NewLetterAppMvc.git
+[submodule "PizzaProject"]
+	path = PizzaProject
+	url = https://github.com/NikkiIngram/PizzaProject.git
