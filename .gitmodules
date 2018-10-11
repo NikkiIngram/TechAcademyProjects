@@ -1,0 +1,3 @@
+[submodule "NewLetterAppMvc"]
+	path = NewLetterAppMvc
+	url = https://github.com/NikkiIngram/NewLetterAppMvc.git
